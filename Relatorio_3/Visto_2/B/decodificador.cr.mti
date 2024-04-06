@@ -1,0 +1,29 @@
+/home/carla/Documents/LAB-SD/Relatorio_3/Visto_2/B/master.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/carla/Documents/LAB-SD/Relatorio_3/Visto_2/B/master.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Master
+-- Compiling architecture Behavioral of Master
+
+} {} {}} /home/carla/Documents/LAB-SD/Relatorio_3/Visto_2/B/dec_16_4.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/carla/Documents/LAB-SD/Relatorio_3/Visto_2/B/dec_16_4.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dec_4_to_16
+-- Compiling architecture Behavioral of dec_4_to_16
+
+} {} {}} /home/carla/Documents/LAB-SD/Relatorio_3/Visto_2/B/test_banch.vhd {2 {vcom -work work -2002 -explicit -stats=none /home/carla/Documents/LAB-SD/Relatorio_3/Visto_2/B/test_banch.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity test_bench
+-- Compiling architecture Behavioral of test_bench
+** Warning: /home/carla/Documents/LAB-SD/Relatorio_3/Visto_2/B/test_banch.vhd(23): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /home/carla/Documents/LAB-SD/Relatorio_3/Visto_2/B/test_banch.vhd(24): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /home/carla/Documents/LAB-SD/Relatorio_3/Visto_2/B/test_banch.vhd(25): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /home/carla/Documents/LAB-SD/Relatorio_3/Visto_2/B/test_banch.vhd(26): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}}
