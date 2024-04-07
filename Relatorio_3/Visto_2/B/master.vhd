@@ -27,6 +27,6 @@ u1 <= SW;
                
 decodificador: dec_4_to_16 port map(A => u1, Y => u0);
 
-LED <= u0(7 downto 0);
+LED <= u0(15 downto 8);
 
 end Behavioral;
