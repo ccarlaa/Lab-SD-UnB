@@ -24,9 +24,10 @@ Após baixar o projeto, você pode abri-lo com o ModelSim. Para isso, na tela de
 Para rodar a simulação:
 
 1. Primeiramente, é necessário compilar todos os arquivos. Para isso, vá em Compile > Compile All
+   
    Obs.: Um aviso deve aparecer na janela "Transcript" dizendo se a compilação foi realizada com sucesso.
-2. Em seguida, vá em Simulate > Start Simulation
-3. Abra a pasta "work", selecione o arquivo de test bench e clique em OK.
-4. Para gerar a onda basta clicar com o botão direito sobre a pasta do test_bench na janela "sim - Default" e selecionar Add wave
-5. Por fim, basta ajustar o intervalo da simulação na navbar e clicar no botão imediatamente a direita.
+3. Em seguida, vá em Simulate > Start Simulation
+4. Abra a pasta "work", selecione o arquivo de test bench e clique em OK.
+5. Para gerar a onda basta clicar com o botão direito sobre a pasta do test_bench na janela "sim - Default" e selecionar Add wave
+6. Por fim, basta ajustar o intervalo da simulação na navbar e clicar no botão imediatamente a direita.
 
