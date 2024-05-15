@@ -2,7 +2,7 @@
 
 <p>Descrição dos trabalhos:</p>
 
-1. Operações lógicas elementares e simulação de circuito utilizando Logisim;
+1. Operações lógicas elementares e simulação de circuitos utilizando Logisim;
 2. Implementar um somador completo e um multiplexador 4 x 1 com VHDL;
 3. Implementar um multiplexador 8 x 1 e um decodificador 4 x 16;
 4. Implementar circuitos lógicos combinacionais utilizando multiplexadores e decodificadores;
@@ -18,7 +18,7 @@ Você pode [acessar o código fonte do projeto](https://github.com/ccarlaa/Lab-S
 Após baixar o projeto, você pode abri-lo com o ModelSim. Para isso, na tela de principal clique em:
 
 1. File > New > Project
-2. Escolha um nome para seu projeto e cliq em OK
+2. Escolha um nome para seu projeto e clique em OK
 3. Selecione Add Existing File e adicione os arquivos do projeto.
 
 Para rodar a simulação:
