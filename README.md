@@ -8,6 +8,7 @@
 4. Implementar circuitos lógicos combinacionais utilizando multiplexadores e decodificadores;
 5. Implementar um somador de palavras binárias utilizando somadores completos;
 6. Implementar um flip-flop do tipo JK e um registrador de deslocamento bidirecional.
+7. Implementar uma máquina de estados que simula o funcionamento de uma máquina de refrigerantes.
    
 ## 📁 Acesso ao projeto
 
